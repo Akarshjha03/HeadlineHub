@@ -33,12 +33,12 @@
 
 ## 🚀 Future Enhancements
 
-🔍 **Search & Filter** – Search for news articles and filter by categories.
-📌 **Bookmark & Read Later** – Save articles to read later, even offline.
-📶 **Offline Mode** – Cache articles for offline reading.
-🔔 **Breaking News Notifications** – Get real-time news alerts via push notifications.
-🤖 **AI-Powered Summarization** – Use ML models to generate short article summaries.
-🌎 **Multi-Language Support** – Provide news in multiple languages.
+- 🔍 **Search & Filter** – Search for news articles and filter by categories.
+- 📌 **Bookmark & Read Later** – Save articles to read later, even offline.
+- 📶 **Offline Mode** – Cache articles for offline reading.
+- 🔔 **Breaking News Notifications** – Get real-time news alerts via push notifications.
+- 🤖 **AI-Powered Summarization** – Use ML models to generate short article summaries.
+- 🌎 **Multi-Language Support** – Provide news in multiple languages.
 
 ---
 
