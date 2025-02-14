@@ -91,8 +91,8 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 For any queries, reach out to me on:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [your-username](https://github.com/Akarshjha03)
+- **LinkedIn**: [your-profile](https://linkedin.com/in/akarshjha03)
 
 ---
 
