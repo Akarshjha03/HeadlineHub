@@ -98,4 +98,4 @@ For any queries, reach out to me on:
 
 > _"Stay informed, stay ahead – because knowledge is power!"_
 
-## 🛠️ **This project is under active development. Stay tuned for more updates!** 🚀
+## 🚧 **This project is under active development. Stay tuned for more updates!** 🛠️
