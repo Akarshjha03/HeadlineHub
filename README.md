@@ -44,7 +44,7 @@
 
 ## 📸 Screenshots
 
-_(Add your app screenshots here)_
+<img src="https://example.com/logo.png" alt="HeadlinesHub Logo" width="300"/>
 
 ---
 
