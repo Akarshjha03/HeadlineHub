@@ -7,10 +7,15 @@
 ## ✨ Key Features
 
 ✅ **Real-time News Fetching** – Retrieves top headlines, including images, titles, and descriptions, using **Retrofit** for API integration.
+
 ✅ **Swipe-to-Refresh** – Seamlessly refresh news content with **SwipeRefreshLayout**.
+
 ✅ **Dark Mode** 🌙 – Supports a **light/dark theme** for better readability and user comfort.
+
 ✅ **Material Design UI** 🎨 – Uses **MaterialCardView** to create an intuitive and responsive interface with **RecyclerView**.
+
 ✅ **Efficient Image Loading** 📷 – Integrated **Coil** for fast and memory-efficient image handling.
+
 ✅ **Error Handling & Feedback** ⚠️ – Displays **Toast messages** for real-time feedback on errors.
 
 ---
