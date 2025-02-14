@@ -53,7 +53,7 @@ _(Add your app screenshots here)_
 Follow these steps to install and use the News App directly from the Releases section:
 
 📥 **Step 1: Download the APK**
-- Navigate to the **[Releases Section](https://github.com/your-username/news-app/releases)** of this repository.
+- Navigate to the **[Releases Section](https://github.com/Akarshjha03/HeadlineHub/releases/tag/v.1.0.0)** of this repository.
 - Look for the latest release, usually at the top of the list and labeled with the latest version (e.g., v1.0.0).
 - Under the "Assets" section of the release, click on the file with the **.apk** extension to download it to your device.
 
@@ -71,7 +71,7 @@ Follow these steps to install and use the News App directly from the Releases se
 
 🔄 **Updating the App**
 - Whenever a new version is released:
-  - Visit the **[Releases Section](https://github.com/your-username/news-app/releases)**.
+  - Visit the **[Releases Section](https://github.com/Akarshjha03/HeadlineHub/releases/tag/v.1.0.0)**.
   - Download the latest **.apk** file and install it over the previous version. Your data will remain intact.
  
 ---
