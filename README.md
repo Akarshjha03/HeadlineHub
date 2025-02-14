@@ -2,19 +2,18 @@
 
 🚀 A modern **Android News App** that fetches real-time headlines with a sleek and user-friendly UI. Built using **Kotlin**, **Retrofit**, and **Coil** to provide a seamless news browsing experience!
 
+---
+
 ## ✨ Key Features
 
 ✅ **Real-time News Fetching** – Retrieves top headlines, including images, titles, and descriptions, using **Retrofit** for API integration.
-
 ✅ **Swipe-to-Refresh** – Seamlessly refresh news content with **SwipeRefreshLayout**.
-
 ✅ **Dark Mode** 🌙 – Supports a **light/dark theme** for better readability and user comfort.
-
 ✅ **Material Design UI** 🎨 – Uses **MaterialCardView** to create an intuitive and responsive interface with **RecyclerView**.
-
 ✅ **Efficient Image Loading** 📷 – Integrated **Coil** for fast and memory-efficient image handling.
-
 ✅ **Error Handling & Feedback** ⚠️ – Displays **Toast messages** for real-time feedback on errors.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,23 +24,24 @@
 - **SwipeRefreshLayout** – For pull-to-refresh functionality.
 - **NewsAPI** – Fetches up-to-date news articles from various sources.
 
+---
+
 ## 🚀 Future Enhancements
 
 🔍 **Search & Filter** – Search for news articles and filter by categories.
-
 📌 **Bookmark & Read Later** – Save articles to read later, even offline.
-
 📶 **Offline Mode** – Cache articles for offline reading.
-
 🔔 **Breaking News Notifications** – Get real-time news alerts via push notifications.
-
 🤖 **AI-Powered Summarization** – Use ML models to generate short article summaries.
-
 🌎 **Multi-Language Support** – Provide news in multiple languages.
+
+---
 
 ## 📸 Screenshots
 
 _(Add your app screenshots here)_
+
+---
 
 ## 🏗️ Installation Guide & Updating the App
 
@@ -62,18 +62,26 @@ Follow these steps to install and use the News App directly from the Releases se
 - Once the installation is complete, you can find the app in your app drawer.
 - Open the app and start exploring the latest news! 📰🎉
 
+---
+
 🔄 **Updating the App**
 - Whenever a new version is released:
   - Visit the **[Releases Section](https://github.com/your-username/news-app/releases)**.
   - Download the latest **.apk** file and install it over the previous version. Your data will remain intact.
+ 
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+
+---
 
 ## 📬 Contact
 
@@ -85,4 +93,4 @@ For any queries, reach out to me on:
 
 > _"Stay informed, stay ahead – because knowledge is power!"_
 
-🛠️ **This project is under active development. Stay tuned for more updates!** 🚀
+## 🛠️ **This project is under active development. Stay tuned for more updates!** 🚀
