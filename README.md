@@ -44,7 +44,7 @@
 
 ## 📸 Screenshots
 
-<img src="https://example.com/logo.png" alt="HeadlinesHub Logo" width="300"/>
+<img src="https://github.com/Akarshjha03/HeadlineHub/blob/master/Screenshot_2025-02-14-18-21-03-574_com.example.news.jpg" alt="App Screenshot" width="300" height="700"/>
 
 ---
 
