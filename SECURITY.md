@@ -8,6 +8,8 @@ The following table outlines which versions of **HeadlineHub** currently receive
 | -------- | ------------------ |
 | 1.0.0    | :white_check_mark: |
 
+---
+
 ## Reporting a Vulnerability
 
 We take security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
