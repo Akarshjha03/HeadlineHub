@@ -24,7 +24,7 @@ To report a vulnerability:
    - We will provide updates on the status of the investigation and resolution **within 7 days**.
    - If confirmed, a fix will be prioritized and released as soon as possible.
 
-### Security Patch Process
+## Security Patch Process
 
 - Critical vulnerabilities will be patched in the **next available release**.
 - Non-critical issues will be scheduled based on severity and impact.
