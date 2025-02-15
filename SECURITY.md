@@ -21,7 +21,7 @@ To report a vulnerability:
    - Steps to reproduce the issue
    - Potential impact
    - Any suggested fixes (if available)
-4. **Timeline**:
+3. **Timeline**:
    - You will receive an acknowledgment within **48 hours**.
    - We will provide updates on the status of the investigation and resolution **within 7 days**.
    - If confirmed, a fix will be prioritized and released as soon as possible.
