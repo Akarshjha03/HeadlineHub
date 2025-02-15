@@ -34,4 +34,6 @@ To report a vulnerability:
 - Non-critical issues will be scheduled based on severity and impact.
 - Disclosures will be made **only after** a patch has been deployed.
 
+---
+
 We encourage responsible disclosure and appreciate your support in keeping **HeadlineHub** secure!
