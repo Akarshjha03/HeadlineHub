@@ -1,5 +1,3 @@
-# HeadlineHub
-
 ## Security Policy
 
 ### Supported Versions
