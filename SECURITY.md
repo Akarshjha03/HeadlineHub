@@ -11,7 +11,6 @@ The following table outlines which versions of **HeadlineHub** currently receive
 ---
 
 ## Reporting a Vulnerability
-
 We take security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
 
 To report a vulnerability:
