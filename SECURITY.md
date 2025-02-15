@@ -1,21 +1,35 @@
-# Security Policy
+# HeadlineHub
 
-## Supported Versions
+## Security Policy
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+### Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+The following table outlines which versions of **HeadlineHub** currently receive security updates:
 
-## Reporting a Vulnerability
+| Version  | Supported          |
+| -------- | ------------------ |
+| 1.0.0    | :white_check_mark: |
 
-Use this section to tell people how to report a vulnerability.
+### Reporting a Vulnerability
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+We take security vulnerabilities seriously and appreciate your efforts to responsibly disclose them.
+
+To report a vulnerability:
+1. **Email us at**: [Mail](akarshjha23@proton,me) with a detailed description of the issue.
+2. **Provide the following details**:
+   - Affected versions
+   - Steps to reproduce the issue
+   - Potential impact
+   - Any suggested fixes (if available)
+3. **Timeline**:
+   - You will receive an acknowledgment within **48 hours**.
+   - We will provide updates on the status of the investigation and resolution **within 7 days**.
+   - If confirmed, a fix will be prioritized and released as soon as possible.
+
+### Security Patch Process
+
+- Critical vulnerabilities will be patched in the **next available release**.
+- Non-critical issues will be scheduled based on severity and impact.
+- Disclosures will be made **only after** a patch has been deployed.
+
+We encourage responsible disclosure and appreciate your support in keeping **HeadlineHub** secure!
