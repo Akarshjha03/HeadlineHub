@@ -16,7 +16,7 @@ We take security vulnerabilities seriously and appreciate your efforts to respon
 
 To report a vulnerability:
 1. **Email us at**: [Mail](akarshjha23@proton,me) with a detailed description of the issue.
-3. **Provide the following details**:
+2. **Provide the following details**:
    - Affected versions
    - Steps to reproduce the issue
    - Potential impact
