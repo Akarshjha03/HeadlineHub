@@ -1,6 +1,6 @@
 # Security Policy
 
-### Supported Versions
+## Supported Versions
 
 The following table outlines which versions of **HeadlineHub** currently receive security updates:
 
