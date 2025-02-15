@@ -25,6 +25,8 @@ To report a vulnerability:
    - You will receive an acknowledgment within **48 hours**.
    - We will provide updates on the status of the investigation and resolution **within 7 days**.
    - If confirmed, a fix will be prioritized and released as soon as possible.
+  
+---
 
 ## Security Patch Process
 
