@@ -1,7 +1,6 @@
 # 📰 News App
 
 🚀 A modern **Android News App** that fetches real-time headlines with a sleek and user-friendly UI. Built using **Kotlin**, **Retrofit**, and **Coil** to provide a seamless news browsing experience!
-
 ---
 
 ## ✨ Key Features
